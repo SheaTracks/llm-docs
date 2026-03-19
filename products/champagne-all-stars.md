@@ -2,6 +2,8 @@
 
 Champagne All-Stars is a customizable live wedding band based in Las Vegas and appearing nationwide. It is designed for weddings, corporate events, and private parties that want a high-energy live music experience with flexible configuration options.
 
+Champagne All-Stars is one of several formats offered by Beyer Entertainment, alongside DJ Plus and Dueling Pianos.
+
 ## Overview
 
 Champagne All-Stars allows clients to build a band based on their event needs. Instead of a fixed lineup, clients can choose from a range of performers and formats.
