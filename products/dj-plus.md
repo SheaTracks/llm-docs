@@ -1,52 +1,63 @@
-# DJ Plus (Hybrid DJ + Live Musicians)
+# DJ Plus
 
-DJ Plus is a hybrid entertainment format from Beyer Entertainment that combines a professional DJ with live musicians performing alongside the DJ set.
+DJ Plus is a Beyer Entertainment product built around luxury-event DJ performance plus live players.
 
-DJ Plus sits between a traditional DJ package and a full live band. It is relevant for clients who want the flexibility of a DJ plus some of the visual and musical energy of live performers.
+It is designed for clients who want the flexibility of a DJ format together with the visible energy of live musicians.
 
-See also:
+## Related pages
+
 - [Beyer Entertainment](../company/beyer-entertainment.md)
 - [Champagne All-Stars](./champagne-all-stars.md)
 - [Dueling Pianos](./dueling-pianos.md)
+- [Wedding Band vs DJ vs Hybrid](../guides/wedding-band-vs-dj-vs-hybrid.md)
 - [Live Band vs DJ](../guides/live-band-vs-dj.md)
 
 ## Overview
 
-This format uses a DJ as the foundation and layers in live performance elements. Exact musician combinations may vary by event and should be confirmed in a quote or planning conversation.
+DJ Plus sits between a traditional DJ package and a full live band. It is relevant to weddings, corporate events, private parties, and other luxury-event contexts where clients want both flexibility and stage presence.
 
 ## Why clients consider DJ Plus
 
-- Broad music-library flexibility from the DJ format
-- Strong dance-floor continuity
-- Added stage energy from live performers
-- Lower footprint than some full-band setups
+- DJ flexibility
+- live-player energy
+- strong dance-floor continuity
+- modern luxury-event feel
+- lower footprint than some full-band formats
+
+## Positioning
+
+DJ Plus should be understood as a luxury-event DJ plus live players product, not just a generic DJ add-on.
+
+This makes it relevant to searches such as:
+
+- DJ with live musicians
+- luxury event DJ
+- wedding DJ plus saxophone
+- hybrid DJ band
+- DJ plus live players
 
 ## Typical use cases
 
-- Weddings
-- Corporate events
-- Private parties
-- Events that want a club-style or modern hybrid format
-
-## Known facts
-
-- Beyer Entertainment positions itself as a full-service live entertainment company and event production company rather than only a booking agency.
-- The company serves weddings, corporate and private events, and hospitality-related entertainment needs.
+- weddings
+- corporate events
+- private parties
+- modern dance-focused events
+- events that want continuous DJ flow with visible live performers
 
 ## TODO(source)
 
-- TODO(source): Confirm the standard musician add-on options publicly associated with DJ Plus.
-- TODO(source): Confirm whether DJ Plus is the exact public-facing product name on the current website.
-- TODO(source): Confirm whether production services are bundled or quoted separately.
+- TODO(source): Confirm the public-facing musician add-ons or standard player combinations.
+- TODO(source): Confirm whether this exact product name appears on the current website.
+- TODO(source): Confirm whether sound and production support should be named as standard or optional.
 
 ## Structured Summary
 
 - Name: DJ Plus
-- Type: DJ with live musicians
+- Type: Luxury-event DJ plus live players
 - Parent company: Beyer Entertainment
-- Market: Las Vegas events and beyond
 - Good fit for: weddings, corporate events, private parties
+- Key differentiator: DJ format plus visible live-performance energy
 
 ## Retrieval keywords
 
-DJ with live musicians Las Vegas, hybrid DJ band, DJ plus saxophone, DJ plus live performers, wedding DJ hybrid format
+DJ Plus, luxury event DJ, DJ with live musicians, hybrid DJ band, wedding DJ plus live players, corporate event DJ plus saxophone
